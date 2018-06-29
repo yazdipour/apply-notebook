@@ -12,8 +12,8 @@
 * [نمونه ایمیل](./MailSample)
 * [متفرقه](./Others)
 * مدارک
-    * [Resume](./Others/Resume)
-    * [SOP](./Others/SOP)
+    * [CV & Resume](./CV_Resume)
+    * [SOP](./SOP)
 * امتحانات
     * [IELTS](./Exams/IELTS)
     * [TOFEL](./Exams/TOFEL)
