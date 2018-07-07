@@ -26,9 +26,4 @@
     * [Norway](./Countries/Norway/)
     * [Sweden](./Countries/Sweden/)
 
-## منابع اصلی
-* helfen.ir
-* applyabroad.org
-* visamondial.com
-* T.me/Afashams
-* T.me/applycafe
+## [منابع و لینک ها](./LINKS.md)
