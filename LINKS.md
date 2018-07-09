@@ -27,10 +27,12 @@
 * https://t.me/nachdeutschland
 
 ## Pay
-
 * https://assist-pay.ir/
 * https://sharifvisa.ir/
 
 ## Podcasts
-
 * https://radiodaal.ir/
+
+## Youtube
+* [Babak Sorkhpour](https://www.youtube.com/channel/UCZfftLsLG4GS4BGIcoKiTQQ)
+* [Schadi khaghanni](https://www.youtube.com/channel/UCOBo0Sh-yYwYVHh4baClfrg)
