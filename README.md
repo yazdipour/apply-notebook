@@ -7,23 +7,23 @@
 
 ## فهرست
 
-* [اطلاعات سفارت ها](./Countries/EmbassyInfo.md)
 * [تجربه ها](./Experiences)
 * [نمونه ایمیل](./MailSample)
-* [متفرقه](./Others)
 * مدارک
-    * [CV & Resume](./CV_Resume)
-    * [SOP](./SOP)
+    * [CV & Resume](./Documents/CV_Resume)
+    * [SOP](./Documents/SOP)
 * امتحانات
     * [IELTS](./Exams/IELTS)
     * [TOFEL](./Exams/TOFEL)
     * [GRE](./Exams/GRE)
 * بر اساس کشور
-    * [USA](./Countries/USA/)
-    * [Canada](./Countries/Canada/)
-    * [German](./Countries/German/)
-    * [Italy](./Countries/Italy/)
-    * [Norway](./Countries/Norway/)
-    * [Sweden](./Countries/Sweden/)
+    * [USA 🇺🇸](./Countries/USA/)
+    * [Canada 🇨🇦](./Countries/Canada/)
+    * [Germany 🇩🇪](./Countries/Germany/)
+    * [Italy 🇮🇹](./Countries/Italy/)
+    * [Norway 🇳🇴](./Countries/Norway/)
+    * [Sweden 🇸🇪](./Countries/Sweden/)
 
-## [منابع و لینک ها](./LINKS.md)
+* [اطلاعات سفارت ها](./Countries/EmbassyInfo.md)
+* [متفرقه](./Others)
+* **[منابع و لینک ها](./LINKS.md)**
