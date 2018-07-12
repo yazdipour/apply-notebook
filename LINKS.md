@@ -10,6 +10,7 @@
 * https://numbeo.com/cost-of-living/
 * https://shanghairanking.com/Shanghairanking-Subject-Rankings/
 * https://grad.saorg.ir/After-September2018
+* [کالج ها در آلمان](http://applyforstudienkolleg.blog.ir/)
 
 ## Telegram Channels
 * https://t.me/helfenir
