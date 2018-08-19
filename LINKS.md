@@ -12,20 +12,7 @@
 * https://grad.saorg.ir/After-September2018
 * [کالج ها در آلمان](http://applyforstudienkolleg.blog.ir/)
 
-## Telegram Channels
-* https://t.me/helfenir
-* https://t.me/Afashams
-* https://t.me/applycafe
-* https://t.me/canadacosts
-* https://t.me/fundyab
-* https://t.me/ApplyClub
-* https://t.me/pargargre
-* https://t.me/ApplyTime
-* https://t.me/ApplyTime_Positions
-* https://t.me/helfenads
-* https://t.me/septm
-* https://t.me/AfaShams
-* https://t.me/nachdeutschland
+## [Telegram](/Telegam.md)
 
 ## Pay
 * https://assist-pay.ir/
