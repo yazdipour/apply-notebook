@@ -1,9 +1,7 @@
+⭕️ لیست اسم شهرهایی  که پول شما بعد از ورود به آلمان توسط بانک بلاک میشه یا نمیشه.
 
-    آپدیت فوریه ۲۰۱۸
-
-    هلفن دانشنامه آلمان
-
-    @helfenir
+    ❌ علامت بلاک شدن
+    ✅ علامت بلاک نشدن
 
 Berlin ✅
  
@@ -19,52 +17,47 @@ Bochum ❌
  
 Frankfurt ✅
  
-Darmstadt  ❌
+Darmstadt ❌
 
-Hannover  ❌
+Hannover ❌
 
-Clausthal  ✅
-
+Clausthal ✅
 
 Konstanz ❌
- برای ايرانی‌ها
-( از سال دوم اگه فيش حقوقی ارائه بديد بهشون، ديگه پول بلاک نميخوان)
-
+ 
 Chemnitz ✅
  
-Marburg  ❌
+Marburg ❌
 
-Wuppertal  ✅
+Wuppertal ✅
 
-Offenburg  ❌
+Offenburg ❌
 
-Karlsruhe  ✅
+Karlsruhe ❌
 
-Weimar  ✅
+Weimar ✅
 
-Erlangen  ❌
+Erlangen ❌
 
-Hamburg  ✅
+Hamburg ✅
 
-Nürnberg  ❌
+Nürnberg ❌
 
-Düsseldorf  ❌
+Düsseldorf ✅
 
+Dortmund ❌
+( با یه گواهی پدر حتی بدون تایید سفارت بلاک نمی‌شه ) 
 
-Dortmund  ❌
-( از سال دوم با یه گواهی پدر با تایید  سفارت بلاک نمی‌شه ) 
+München ❌
 
-München  ❌
-
-
-Paderborn  ❌
+Paderborn ❌
  ( با گواهی ضمانت پدر که تایید سفارت شده بدون بلاک تمدید می‌کنن )
 
-Tübingen   ✅
+Tübingen ✅
 
 Kiel ✅
 
-Kassel ❌
+Kassel ✅
 
 Rostock ✅
 
@@ -74,13 +67,10 @@ Wismar ✅
 
 Oldenburg ❌
 
-Helfenir ✅
-
 Koblenz ✅
 
-
 Duisburg❌
- (البته بعضی بچه ها با گواهی ضمانت پدر که تایید سفارت شده تونستن بدون بلاک تمدید کنن)
+ (البته بعضی افراد با گواهی ضمانت پدر که تایید سفارت شده تونستن بدون بلاک  ویزاشون رو تمدید کنن)
 
 Braunschweig❌
 
@@ -92,30 +82,15 @@ Jena ✅
 
 Bonn ✅
 
-Ulm ✅
-
-Köln ❌
+ULM ✅
 
 Göttingen ✅
 
-Trier ✅
+Trier✅
 
-Mittweida ✅
+Köln ✅
 
-Cottbus ✅
+Mittweida✅
 
-Hildesheim ✅
 
-Magdeburg ❌
- (از سال دوم بلاک نمیکنه) 
-Kleve ❌
-
-Nordhausen ❌
-
-Passau ❌
-
-Bayreuth ❌
-
-Coburg ❌
-
-Mainz ❌
+From <@helfenir>
