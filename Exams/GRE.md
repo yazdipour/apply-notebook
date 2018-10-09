@@ -1,4 +1,4 @@
-# GRE
+# منابع_GRE
 
 با سلام خدمت دوستان
 
@@ -37,9 +37,3 @@
 لینک وبسایت آزمون های GRE:
 
 https://contactmonkey.com/api/v1/tracker?cm_session=5643484d-3513-415b-94bb-062b204884f0&cm_type=link&cm_link=d3791df3-1e0d-4b6e-a773-ba9423683c0d&cm_destination=http://gre.kaomanfen.com/exam
-
-
-
-امیدوارم نمره ی خوبی در این آزمون به دست بیارید.
-
-#منابع_GRE
