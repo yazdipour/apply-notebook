@@ -1,0 +1,14 @@
+{
+  "short_name": "Apply Notebook",
+  "name": "Apply Notebook",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "background_color": "#222",
+  "display": "standalone",
+  "theme_color": "#222"
+}

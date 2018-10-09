@@ -9,6 +9,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/dark.css">
+  <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" sizes="180x180" href="favicon.png">
   <style>
     @font-face {
@@ -43,18 +44,6 @@
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
-      // Detects if device is on iOS 
-      const isIos = () => {
-        const userAgent = window.navigator.userAgent.toLowerCase();
-        return /iphone|ipad|ipod/.test(userAgent);
-      }
-      // Detects if device is in standalone mode
-      const isInStandaloneMode = () => ('standalone' in window.navigator) && (window.navigator.standalone);
-
-      // Checks if should display install popup notification:
-      if (isIos() && !isInStandaloneMode()) {
-        this.setState({ showInstallMessage: true });
-      }
     }
   </script>
 </body>
