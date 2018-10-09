@@ -10,7 +10,7 @@
     * [نمونه ایمیل](Experiences/Mail.md)
     * [بیمه_مسافرتی](Experiences/بیمه_مسافرتی.md)
     * [تجربه_تایید_مدارک_آلمان](Experiences/تجربه_تایید_مدارک_آلمان.md)
-    * [تجربه_معافیت_تحصیلی](Experiences/تجربه_معافیت_تحصیلی.png)
+    * [تجربه_معافیت_تحصیلی](https://github.com/yazdipour/apply-notebook/raw/master/Experiences/تجربه_معافیت_تحصیلی.png)
 
 * مدارک
     * [CV & Resume](Documents/RESUME.md)
@@ -24,12 +24,12 @@
 
 * بر اساس کشور
     * [اطلاعات سفارت ها](Others/EmbassyInfo.md)
-    * [USA 🇺🇸](Countries/USA/)
-    * [Canada 🇨🇦](Countries/Canada/)
-    * [Germany 🇩🇪](Countries/Germany/)
-    * [Italy 🇮🇹](Countries/Italy/)
-    * [Norway 🇳🇴](Countries/Norway/)
-    * [Sweden 🇸🇪](Countries/Sweden/)
+    * [USA 🇺🇸](Countries/USA/README.md)
+    * [Canada 🇨🇦](Countries/Canada/README.md)
+    * [Germany 🇩🇪](Countries/Germany/README.md)
+    * [Italy 🇮🇹](Countries/Italy/README.md)
+    * [Norway 🇳🇴](Countries/Norway/README.md)
+    * [Sweden 🇸🇪](Countries/Sweden/README.md)
 
 * متفرقه
     * [FUND Resourses](Others/FUND_SITES.md)
@@ -81,5 +81,3 @@
 ## Telegram Group
 * Helfen:  https://t.me/joinchat/BbErcTwtV6adIi_CVOlZ-Q
 * SAPIENZA : https://t.me/joinchat/Cj7ivT4VPp0jY1zBmfpP2g
-* Study & Work in Australia & Canada: https://telegram.me/joinchat/CXq5Xz8RoUKY_PkXogVveQ
-* GRE: https://t.me/joinchat/AAAAAEHpCBzacxSiG_bHPA
