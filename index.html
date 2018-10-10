@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fa">
-
 <head>
   <meta charset="UTF-8">
   <title>🎓 دفترچه اپلای </title>
@@ -37,15 +36,21 @@
     window.$docsify = {
       name: 'Apply Notebook',
       repo: 'yazdipour/apply-notebook',
-      logo: 'favicon.png'
+      logo: 'favicon.png',
+      search: {
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        depth: 6
+      },
+      themeColor:"#2ecc71",
+      auto2top: true
     }
+    
+    // if (typeof navigator.serviceWorker !== 'undefined') {
+    //   navigator.serviceWorker.register('sw.js')
+    // }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script>
-    if (typeof navigator.serviceWorker !== 'undefined') {
-      navigator.serviceWorker.register('sw.js')
-    }
-  </script>
 </body>
 
 </html>

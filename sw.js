@@ -9,9 +9,11 @@
 const RUNTIME = 'docsify'
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
+  'assets-cdn.github.com',  //  <~~ images
+  'raw.githubusercontent.com',  //  <~~ markdown source
   'fonts.gstatic.com',
   'fonts.googleapis.com',
-  'unpkg.com'
+  'unpkg.com'  //  <~~ importing docsify from the index.html
 ]
 
 // The Util Function to hack URLs of intercepted requests
