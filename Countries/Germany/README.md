@@ -20,7 +20,6 @@
 ### [زندگی](Countries/Germany/زندگی.md)
 ### [سطح‌بندی_دانشگاه‌_بعد_2018](Countries/Germany/سطح‌بندی_دانشگاه‌_بعد_2018.md)
 ### [سوالات_روز_مصاحبه](Countries/Germany/سوالات_روز_مصاحبه.md)
-### [سوالات_روز_مصاحبه.png](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/سوالات_روز_مصاحبه.png)
 ### [قطار](Countries/Germany/قطار.md)
 ### [مالیات_دانشجویی](Countries/Germany/مالیات_دانشجویی.md)
 ### [مراحل_رفتن_به_آلمان](Countries/Germany/مراحل_رفتن_به_آلمان.md)
