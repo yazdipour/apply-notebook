@@ -6,38 +6,38 @@
 هیچ مسئولیتی در قبال نادرستی مطالب گردن نمیگیرم. ( همیشه خودتون سرچ کنید مطمئن بشید)
 
 # فهرست
-* تجربه ها
-    * [نمونه ایمیل](Experiences/Mail.md)
-    * [بیمه_مسافرتی](Experiences/بیمه_مسافرتی.md)
-    * [تجربه_تایید_مدارک_آلمان](Experiences/تجربه_تایید_مدارک_آلمان.md)
-    * [تجربه_معافیت_تحصیلی](https://github.com/yazdipour/apply-notebook/raw/master/Experiences/تجربه_معافیت_تحصیلی.png)
+### تجربه ها
+* [نمونه ایمیل](Experiences/Mail.md)
+* [بیمه_مسافرتی](Experiences/بیمه_مسافرتی.md)
+* [تجربه_تایید_مدارک_آلمان](Experiences/تجربه_تایید_مدارک_آلمان.md)
+* [تجربه_معافیت_تحصیلی](https://github.com/yazdipour/apply-notebook/raw/master/Experiences/تجربه_معافیت_تحصیلی.png)
 
-* مدارک
-    * [CV & Resume](Documents/RESUME.md)
-    * [SOP](Documents/SOP.md)
-    * [آزادکردن_مدارک](Documents/آزادکردن_مدارک.md)
+### مدارک
+* [CV & Resume](Documents/RESUME.md)
+* [SOP](Documents/SOP.md)
+* [آزادکردن_مدارک](Documents/آزادکردن_مدارک.md)
 
-* امتحانات
-    * [IELTS](Exams/IELTS.md)
-    * [TOFEL](Exams/TOFEL.md)
-    * [GRE](Exams/GRE.md)
+### امتحانات
+* [IELTS](Exams/IELTS.md)
+* [TOFEL](Exams/TOFEL.md)
+* [GRE](Exams/GRE.md)
 
-* بر اساس کشور
-    * [اطلاعات سفارت ها](Others/EmbassyInfo.md)
-    * [USA 🇺🇸](Countries/USA/README.md)
-    * [Canada 🇨🇦](Countries/Canada/README.md)
-    * [Germany 🇩🇪](Countries/Germany/README.md)
-    * [Italy 🇮🇹](Countries/Italy/README.md)
-    * [Norway 🇳🇴](Countries/Norway/README.md)
-    * [Sweden 🇸🇪](Countries/Sweden/README.md)
+### بر اساس کشور
+* [اطلاعات سفارت ها](Others/EmbassyInfo.md)
+* [USA 🇺🇸](Countries/USA/README.md)
+* [Canada 🇨🇦](Countries/Canada/README.md)
+* [Germany 🇩🇪](Countries/Germany/README.md)
+* [Italy 🇮🇹](Countries/Italy/README.md)
+* [Norway 🇳🇴](Countries/Norway/README.md)
+* [Sweden 🇸🇪](Countries/Sweden/README.md)
 
-* متفرقه
-    * [FUND Resourses](Others/FUND_SITES.md)
-    * [Job](Others/Job_Fund.md)
-    * [سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران](Others/سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران.md)
-    * [معافیت_عوارض_خروج](Others/معافیت_عوارض_خروج.md)
-    * [معیار_سنجش_اعتبار_مقاله](Others/معیار_سنجش_اعتبار_مقاله.md)
-    * [نحوه_گرفتن_پاسپورت](Others/نحوه_گرفتن_پاسپورت.md)
+### متفرقه
+* [FUND Resourses](Others/FUND_SITES.md)
+* [Job](Others/Job_Fund.md)
+* [سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران](Others/سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران.md)
+* [معافیت_عوارض_خروج](Others/معافیت_عوارض_خروج.md)
+* [معیار_سنجش_اعتبار_مقاله](Others/معیار_سنجش_اعتبار_مقاله.md)
+* [نحوه_گرفتن_پاسپورت](Others/نحوه_گرفتن_پاسپورت.md)
 
 # منابع و لینک ها
 ## Sites
@@ -81,3 +81,9 @@
 ## Telegram Group
 * Helfen:  https://t.me/joinchat/BbErcTwtV6adIi_CVOlZ-Q
 * SAPIENZA : https://t.me/joinchat/Cj7ivT4VPp0jY1zBmfpP2g
+
+## Donate
+
+[![Donate RIAL.IR](https://img.shields.io/badge/donate-IRAN-blue.svg)](https://www.payping.ir/yazdipour)
+
+[![Donate](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/XrTW5YQDy)
