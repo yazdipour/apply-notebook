@@ -5,24 +5,22 @@
 
 هیچ مسئولیتی در قبال نادرستی مطالب گردن نمیگیرم. ( همیشه خودتون سرچ کنید مطمئن بشید)
 
-# فهرست
-### تجربه ها
-* [نمونه ایمیل](Experiences/Mail.md)
-* [بیمه_مسافرتی](Experiences/بیمه_مسافرتی.md)
-* [تجربه_تایید_مدارک_آلمان](Experiences/تجربه_تایید_مدارک_آلمان.md)
-* [تجربه_معافیت_تحصیلی](https://github.com/yazdipour/apply-notebook/raw/master/Experiences/تجربه_معافیت_تحصیلی.png)
+## فهرست
 
 ### مدارک
+
 * [CV & Resume](Documents/RESUME.md)
 * [SOP](Documents/SOP.md)
 * [آزادکردن_مدارک](Documents/آزادکردن_مدارک.md)
 
 ### امتحانات
+
 * [IELTS](Exams/IELTS.md)
 * [TOFEL](Exams/TOFEL.md)
 * [GRE](Exams/GRE.md)
 
 ### بر اساس کشور
+
 * [اطلاعات سفارت ها](Others/EmbassyInfo.md)
 * [USA 🇺🇸](Countries/USA/README.md)
 * [Canada 🇨🇦](Countries/Canada/README.md)
@@ -32,6 +30,9 @@
 * [Sweden 🇸🇪](Countries/Sweden/README.md)
 
 ### متفرقه
+
+* [تجربه_معافیت_تحصیلی](https://github.com/yazdipour/apply-notebook/raw/master/Others/تجربه_معافیت_تحصیلی.png)
+* [نمونه ایمیل](Others/Mail.md)
 * [FUND Resourses](Others/FUND_SITES.md)
 * [Job](Others/Job_Fund.md)
 * [سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران](Others/سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران.md)
@@ -40,7 +41,9 @@
 * [نحوه_گرفتن_پاسپورت](Others/نحوه_گرفتن_پاسپورت.md)
 
 # منابع و لینک ها
+
 ## Sites
+
 * https://helfen.ir
 * https://applyabroad.org
 * https://visamondial.com
@@ -53,17 +56,22 @@
 * [کالج ها در آلمان](http://applyforstudienkolleg.blog.ir/)
 
 ## Payment Assistance
+
 * https://assist-pay.ir/
 * https://sharifvisa.ir/
 
 ## Podcasts
+
 * https://radiodaal.ir/
+* [پادکست خانه‌های من](https://itunes.apple.com/us/podcast/%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D9%86/id1331026409?mt=2)
 
 ## Youtube Channels
+
 * [Babak Sorkhpour](https://www.youtube.com/channel/UCZfftLsLG4GS4BGIcoKiTQQ)
 * [Schadi khaghanni](https://www.youtube.com/channel/UCOBo0Sh-yYwYVHh4baClfrg)
 
 ## Telegram Channels
+
 * https://t.me/helfenir
 * https://t.me/Afashams
 * https://t.me/applycafe
@@ -79,6 +87,7 @@
 * https://t.me/nachdeutschland
 
 ## Telegram Group
+
 * Helfen:  https://t.me/joinchat/BbErcTwtV6adIi_CVOlZ-Q
 * SAPIENZA : https://t.me/joinchat/Cj7ivT4VPp0jY1zBmfpP2g
 
