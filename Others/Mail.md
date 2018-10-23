@@ -1,10 +1,29 @@
+# Tutuin Waiver
+
+Dear yyyyyy,
+
+I am writing to let you know that I am very interested in PhD program in PPPPPP at XXXX University. I am going to submit my application shortly.
+
+I have one problem though. Unfortunately, I am unable to pay the required application fee. You probably know about the financial hardship situation in Iran: my fellowship at the institute is $ZZZ per month and my parents earn total of $YYY per month, which is hardly enough to xxxxxx.
+
+I would like to ask you about the possibility to waive the fee or defer the payment until my arrival in US.
+
+Thank you very much for your help and understanding.
+Sincerely,
+
+by Mohammad Elmi
+
+From<@ApplyClub>
+
 # Defer
+
 ```
 Dear Ms. Cevik
 Firstly, I wanted to thank you so much for notifying me about the admission.
 There is only one issue concerning my application which is related to the visa. Here it takes at least 100 days to book an interview appointment at the embassy. It will also take a considerable amount of time to get my visa. Therefore, I am not sure whether I will be able to be in Augsburg for this winter semester (beginning in October 2017). I was wondering if you could let me know whether there is a way I can defer my admission and start my study in the summer semester (April 2018).
 Kind Regards
 ```
+
 # Prof Email
 
 ```
