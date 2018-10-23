@@ -7,6 +7,7 @@
 * [SimCard](Countries/Germany/SimCard.md)
 * [UniAssist](Countries/Germany/UniAssist.md)
 * [ZAB](Countries/Germany/ZAB.md)
+* [بعد_مصاحبه](Countries/Germany/بعد_مصاحبه.md)
 * [ارسال_دعوت_نامه_توسط_دانشجو](Countries/Germany/ارسال_دعوت_نامه_توسط_دانشجو.md)
 * [بانک](Countries/Germany/بانک.md)
 * [بعد_از_اتمام_تحصیل](Countries/Germany/بعد_از_اتمام_تحصیل.md)
