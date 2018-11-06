@@ -1,4 +1,5 @@
 ﻿# 🎓 دفترچه اپلای 
+
 مطالب مربوط به اپلای تحصیلی که طی مدتی در وان_نوت ام ذخیره میکردم رو اوردم اینجا.
 
 سعی کردم منابع رو تا اونجا که در توان داشتم پیدا کنم و در فایل مطلب بیان کنم.
@@ -11,6 +12,7 @@
 
 * [CV & Resume](Documents/RESUME.md)
 * [SOP](Documents/SOP.md)
+* [SOP Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/SOP_Sample)
 * [آزادکردن_مدارک](Documents/آزادکردن_مدارک.md)
 
 ### امتحانات
@@ -40,9 +42,9 @@
 * [معیار_سنجش_اعتبار_مقاله](Others/معیار_سنجش_اعتبار_مقاله.md)
 * [نحوه_گرفتن_پاسپورت](Others/نحوه_گرفتن_پاسپورت.md)
 
-# منابع و لینک ها
+## منابع و لینک ها
 
-## Sites
+### Sites
 
 * https://helfen.ir
 * https://applyabroad.org
@@ -55,22 +57,22 @@
 * https://grad.saorg.ir/After-September2018
 * [کالج ها در آلمان](http://applyforstudienkolleg.blog.ir/)
 
-## Payment Assistance
+### Payment Assistance
 
 * https://assist-pay.ir/
 * https://sharifvisa.ir/
 
-## Podcasts
+### Podcasts
 
 * https://radiodaal.ir/
 * [پادکست خانه‌های من](https://itunes.apple.com/us/podcast/%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D9%86/id1331026409?mt=2)
 
-## Youtube Channels
+### Youtube Channels
 
 * [Babak Sorkhpour](https://www.youtube.com/channel/UCZfftLsLG4GS4BGIcoKiTQQ)
 * [Schadi khaghanni](https://www.youtube.com/channel/UCOBo0Sh-yYwYVHh4baClfrg)
 
-## Telegram Channels
+### Telegram Channels
 
 * https://t.me/helfenir
 * https://t.me/Afashams
@@ -86,12 +88,12 @@
 * https://t.me/AfaShams
 * https://t.me/nachdeutschland
 
-## Telegram Group
+### Telegram Group
 
 * Helfen:  https://t.me/joinchat/BbErcTwtV6adIi_CVOlZ-Q
 * SAPIENZA : https://t.me/joinchat/Cj7ivT4VPp0jY1zBmfpP2g
 
-## Donate
+### Donate
 
 [![Donate RIAL.IR](https://img.shields.io/badge/donate-IRAN-blue.svg)](https://www.payping.ir/yazdipour)
 
