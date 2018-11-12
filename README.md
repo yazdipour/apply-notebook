@@ -30,6 +30,7 @@
 * [Italy 🇮🇹](Countries/Italy/README.md)
 * [Norway 🇳🇴](Countries/Norway/README.md)
 * [Sweden 🇸🇪](Countries/Sweden/README.md)
+* [Australia](Countries/Australia/README.md)
 
 ### متفرقه
 
