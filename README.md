@@ -13,7 +13,7 @@
 * [CV & Resume](Documents/RESUME.md)
 * [SOP](Documents/SOP.md)
 * [SOP Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/SOP_Sample)
-* [آزادکردن_مدارک](Documents/آزادکردن_مدارک.md)
+* [***آزادکردن_مدارک***](Documents/آزادکردن_مدارک.md)
 
 ### امتحانات
 
@@ -30,7 +30,7 @@
 * [Italy 🇮🇹](Countries/Italy/README.md)
 * [Norway 🇳🇴](Countries/Norway/README.md)
 * [Sweden 🇸🇪](Countries/Sweden/README.md)
-* [Australia](Countries/Australia/README.md)
+* [Australia🦘](Countries/Australia/README.md)
 
 ### متفرقه
 
