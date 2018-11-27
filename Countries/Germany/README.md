@@ -20,6 +20,7 @@
 
 ## قبل از سفر
 
+* [چی_ببریم](_/چی_ببریم.md)
 * [بعد_مصاحبه](Countries/Germany/BeforeMigration/بعد_مصاحبه.md)
 * [بیمه](Countries/Germany/BeforeMigration/بیمه.md)
 * [بیمه_مسافرتی](Countries/Germany/BeforeMigration/بیمه_مسافرتی.md)
