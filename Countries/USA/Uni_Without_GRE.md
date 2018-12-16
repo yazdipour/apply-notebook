@@ -1,3 +1,45 @@
+# NO_GRE
+
+1. Farleigh Dickinson University(NJ)
+2. Monmouth University(NJ)
+3. Montclair State University(NJ)
+4. The Richard Stockton College of NJ(NJ)
+5. Rowan University(NJ)
+6. Wichita State University
+7. Kansas State University
+8. Virginia State University
+9. Rivier University
+10. San Jose University – Computer Science
+11. California State University – Channel Islands – Computer Science
+12. California State University – Northbridge – Computer Science
+13. Bridge Port University – Computer Science
+14. Wichita State University – Computer Science
+15. Boston University CIS (Master of Science in Computer Information Systems)
+16. Norwich University CIS (Master of Science in Information Security & Assurance)
+17. University of Cincinnati – Master of Health Informatics
+18. Florida International University for MS, PhD in Computer Science
+19. Villanova University for MS in EE
+20. University of Idaho for MS in Environmental science and Computer Engineering
+21. West Texas A&M University
+22. University of Florida for Arts Education
+23. George Mason University (for Master in Health Information Systems and Civil Engineering)
+24. University of Oklahoma – Some programmes do not require GRE scores
+25. Oklahoma State University – Bio systems and Agricultural Engineering
+26. Washington State University – Few MS programmes
+27. University of Nebraska-Lincoln – Few engineering programmes
+28. University of Northern Virginia – Optional GRE for some programmes
+29. New Mexico State University – Few MS programmes have optional GRE
+30. University of Dayton – All Engineering programmes MS and MEng
+31. University of New Mexico – Biomedical science
+32. Ohio University – MHA – Masters in Health Administration (در صورت داشتن معدل بالای سه و دو دهم )
+33. California State University, Sacramento – Civil Engineering
+34. Norwich University – Civil Engineering
+35. Iowa State University - Civil Engineering
+36. University of Minnesota - Civil Engineering
+37. University of Washington - Civil Engineering
+
+## Update 2016 ↓
+
 Reference: https://www.hotcoursesabroad.com/india/find-your-course/how-to-shortlist-universities/ms-in-computer-science-in-usa-without-gre/
 
 * Massachusetts Institute of Technology (MIT) - You read right-MIT- we repeat- MIT, based out of Cambridge, is offering its graduate programme in Electrical * Engineering and Computer Science without any expectations of a GRE score. Can hardly believe it? Well- believe it!
