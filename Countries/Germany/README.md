@@ -32,7 +32,6 @@
 
 * [انگیزه_نامه_سفارت](Countries/Germany/BeforeEmbassy/انگیزه_نامه_سفارت.md)
 * [ضمانتنامه_مالی](Countries/Germany/BeforeEmbassy/ضمانتنامه_مالی.md)
-* [انگیزه_نامه_سفارت](Countries/Germany/BeforeEmbassy/انگیزه_نامه_سفارت.md)
 * [مصاحبه_دانشجویی](Countries/Germany/BeforeEmbassy/مصاحبه_دانشجویی.md)
 * [سوالات_روز_مصاحبه](Countries/Germany/BeforeEmbassy/سوالات_روز_مصاحبه.md)
 * [روز_مصاحبه](Countries/Germany/BeforeEmbassy/روز_مصاحبه.md)
