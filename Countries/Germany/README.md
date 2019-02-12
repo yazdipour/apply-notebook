@@ -11,6 +11,7 @@
 
 ## بعد از سفر
 
+* [لغات پر استفاده](Countries/Germany/AfterMigration/لغات.md)
 * [SimCard](Countries/Germany/AfterMigration/SimCard.md)
 * [بانک](Countries/Germany/AfterMigration/بانک.md)
 * [بعد_از_اتمام_تحصیل](Countries/Germany/AfterMigration/بعد_از_اتمام_تحصیل.md)

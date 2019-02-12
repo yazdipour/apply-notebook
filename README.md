@@ -11,15 +11,19 @@
 ### مدارک
 
 * [CV & Resume](Documents/RESUME.md)
+    * [CV Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/CV_Sample)
+    * [Resume Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/Resume_Sample)
+    * [CV + Admission Result of Peoples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/Profiles)
+* [MotivationLetter Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/MotivationLetter)
 * [SOP](Documents/SOP.md)
-* [SOP Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/SOP_Sample)
+    * [SOP Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/SOP_Sample)
 * [***آزادکردن_مدارک***](Documents/آزادکردن_مدارک.md)
 
 ### امتحانات
 
-* [IELTS](Exams/IELTS.md)
 * [TOFEL](Exams/TOFEL.md)
 * [GRE](Exams/GRE.md)
+    * [GRE References](https://github.com/yazdipour/apply-notebook/tree/master/Exams)
 
 ### بر اساس کشور
 
@@ -36,13 +40,13 @@
 
 * [تجربه_معافیت_تحصیلی](https://github.com/yazdipour/apply-notebook/raw/master/_/تجربه_معافیت_تحصیلی.png)
 * [نمونه ایمیل](_/Mail.md)
-* [FUND Resourses](_/FUND_SITES.md)
-* [Job](_/Job_Fund.md)
+* [کار](_/Job_Fund.md)
 * [سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران](_/سایت_های_کاربردی_برای_دانشجویان_و_پژوهشگران.md)
 * [معافیت_عوارض_خروج](_/معافیت_عوارض_خروج.md)
 * [معیار_سنجش_اعتبار_مقاله](_/معیار_سنجش_اعتبار_مقاله.md)
 * [نحوه_گرفتن_پاسپورت](_/نحوه_گرفتن_پاسپورت.md)
 * [Application Fee Waiver](_/fee_waiver.md)
+* [FUND Resourses](_/FUND_SITES.md)
 
 ## منابع و لینک ها
 
@@ -72,7 +76,6 @@
 ### Youtube Channels
 
 * [Babak Sorkhpour](https://www.youtube.com/channel/UCZfftLsLG4GS4BGIcoKiTQQ)
-* [Schadi khaghanni](https://www.youtube.com/channel/UCOBo0Sh-yYwYVHh4baClfrg)
 
 ### Telegram Channels
 
