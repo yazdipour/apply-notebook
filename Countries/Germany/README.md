@@ -1,5 +1,6 @@
 # _
 
+* **[مرجع کامل📙](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/HelfenHandbuch-Jan2019.pdf)**
 * [Blocking Bank States](Countries/Germany/BlockingStates.md)
 * [EmbassyInfo](Countries/Germany/EmbassyInfo.md)
 * [QA](Countries/Germany/QA.md)
@@ -8,6 +9,24 @@
 * [خانواده_فرزندان](Countries/Germany/خانواده_فرزندان.md)
 * [هزینه_زندگی‌](Countries/Germany/هزینه_زندگی‌.md)
 * [مراحل_رفتن_به_آلمان](Countries/Germany/مراحل_رفتن_به_آلمان.md)
+
+## کار / مالیات
+
+
+* [گواهی_کار](Countries/Germany/Work/گواهی_کار.md)
+* [کار_کامپیوتری.png](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Work/کار_کامپیوتری.png)
+* [کار](Countries/Germany/Work/کار.md)
+* [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
+* [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
+
+## ویزا
+
+* [ویزای_پیوست](Countries/Germany/Visa/ویزای_پیوست.md)
+* [ارسال_دعوت_نامه_توسط_دانشجو](Countries/Germany/Visa/ارسال_دعوت_نامه_توسط_دانشجو.md)
+* [تشکیل پرونده در سفارت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/تشکیل_پرونده_در_سفارت.pdf)
+* [راهنمای فرم اقامت بلندمدت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/راهنمای_فرم_اقامت_بلندمدت.pdf)
+* [برگه راهنما برای درخواست روادید دانشجویی.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_برای_درخواست_روادید_دانشجویی.pdf)
+* [برگه_راهنما_جهت_درخواست_روادید_پیوست.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_جهت_درخواست_روادید_پیوست.pdf)
 
 ## بعد از سفر
 
@@ -38,6 +57,7 @@
 * [روز_مصاحبه](Countries/Germany/BeforeEmbassy/روز_مصاحبه.md)
 * [نواقص_پرونده](Countries/Germany/BeforeEmbassy/نواقص_پرونده.md)
 * [ویزا_اعتراض_به_نتیجه](Countries/Germany/BeforeEmbassy/ویزا_اعتراض_به_نتیجه.md)
+* [ویزای_دانشجویی](Countries/Germany/Visa/ویزای_دانشجویی.md)
 
 ## قبل از اپلای کردن
 
@@ -51,22 +71,3 @@
 * [تجربه_وقت_اضطراری](Countries/Germany/BeforeApply/تجربه_وقت_اضطراری.md)
 * [مکاتبه_دانشگاه_آلمان_تاییدمدارک](Countries/Germany/BeforeApply/مکاتبه_دانشگاه_آلمان_تاییدمدارک.md)
 * [نحوه_تبدیل_واحد](Countries/Germany/BeforeApply/نحوه_تبدیل_واحد.md)
-
-## کار / مالیات
-
-
-* [گواهی_کار](Countries/Germany/Work/گواهی_کار.md)
-* [کار_کامپیوتری.png](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Work/کار_کامپیوتری.png)
-* [کار](Countries/Germany/Work/کار.md)
-* [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
-* [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
-
-## ویزا
-
-* [ویزای_دانشجویی](Countries/Germany/Visa/ویزای_دانشجویی.md)
-* [ویزای_پیوست](Countries/Germany/Visa/ویزای_پیوست.md)
-* [ارسال_دعوت_نامه_توسط_دانشجو](Countries/Germany/Visa/ارسال_دعوت_نامه_توسط_دانشجو.md)
-* [تشکیل پرونده در سفارت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/تشکیل_پرونده_در_سفارت.pdf)
-* [راهنمای فرم اقامت بلندمدت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/راهنمای_فرم_اقامت_بلندمدت.pdf)
-* [برگه راهنما برای درخواست روادید دانشجویی.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_برای_درخواست_روادید_دانشجویی.pdf)
-* [برگه_راهنما_جهت_درخواست_روادید_پیوست.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_جهت_درخواست_روادید_پیوست.pdf)
