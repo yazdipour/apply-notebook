@@ -19,13 +19,10 @@
 * [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
 * [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
 
-## ویزا
+## ویزای_پیوست
 
 * [ویزای_پیوست](Countries/Germany/Visa/ویزای_پیوست.md)
 * [ارسال_دعوت_نامه_توسط_دانشجو](Countries/Germany/Visa/ارسال_دعوت_نامه_توسط_دانشجو.md)
-* [تشکیل پرونده در سفارت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/تشکیل_پرونده_در_سفارت.pdf)
-* [راهنمای فرم اقامت بلندمدت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/راهنمای_فرم_اقامت_بلندمدت.pdf)
-* [برگه راهنما برای درخواست روادید دانشجویی.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_برای_درخواست_روادید_دانشجویی.pdf)
 * [برگه_راهنما_جهت_درخواست_روادید_پیوست.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_جهت_درخواست_روادید_پیوست.pdf)
 
 ## بعد از سفر
@@ -37,6 +34,7 @@
 * [هواپیما✈](Countries/Germany/AfterMigration/هواپیما.md)
 * [قطار🚆](Countries/Germany/AfterMigration/قطار.md)
 * [زندگی](Countries/Germany/AfterMigration/زندگی.md)
+* [تشکیل پرونده در سفارت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/تشکیل_پرونده_در_سفارت.pdf)
 
 ## قبل از سفر
 
@@ -58,6 +56,8 @@
 * [نواقص_پرونده](Countries/Germany/BeforeEmbassy/نواقص_پرونده.md)
 * [ویزا_اعتراض_به_نتیجه](Countries/Germany/BeforeEmbassy/ویزا_اعتراض_به_نتیجه.md)
 * [ویزای_دانشجویی](Countries/Germany/Visa/ویزای_دانشجویی.md)
+* [برگه راهنما برای درخواست روادید دانشجویی.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_برای_درخواست_روادید_دانشجویی.pdf)
+* [راهنمای فرم روادید دانشجویی.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/راهنمای_فرم_اقامت_بلندمدت.pdf)
 
 ## قبل از اپلای کردن
 
