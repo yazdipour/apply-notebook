@@ -38,6 +38,7 @@
 
 ### متفرقه
 
+* [FUND](_/FUND_SITES.md)
 * [تجربه_معافیت_تحصیلی](https://github.com/yazdipour/apply-notebook/raw/master/_/تجربه_معافیت_تحصیلی.png)
 * [نمونه ایمیل](_/Mail.md)
 * [کار](_/Job_Fund.md)
@@ -46,7 +47,6 @@
 * [معیار_سنجش_اعتبار_مقاله](_/معیار_سنجش_اعتبار_مقاله.md)
 * [نحوه_گرفتن_پاسپورت](_/نحوه_گرفتن_پاسپورت.md)
 * [Application Fee Waiver](_/fee_waiver.md)
-* [FUND Resourses](_/FUND_SITES.md)
 
 ## منابع و لینک ها
 
