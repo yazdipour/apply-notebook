@@ -1,4 +1,4 @@
-﻿# 🎓 دفترچه اپلای 
+﻿<h1 align="center"> 🎓 دفترچه اپلای </h1>
 
 مطالب مربوط به اپلای تحصیلی که طی مدتی در وان_نوت ام ذخیره میکردم رو اوردم اینجا.
 
@@ -17,7 +17,7 @@
 * [MotivationLetter Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/MotivationLetter)
 * [SOP](Documents/SOP.md)
     * [SOP Samples](https://github.com/yazdipour/apply-notebook/tree/master/Documents/SOP_Sample)
-* [***آزادکردن_مدارک***](Documents/آزادکردن_مدارک.md)
+* [**آزادکردن_مدارک**](Documents/آزادکردن_مدارک.md)
 
 ### امتحانات
 
@@ -50,56 +50,18 @@
 
 ## منابع و لینک ها
 
-### Sites
+[منابع و لینک ها](_/ref.md)
 
-* https://helfen.ir
-* https://applyabroad.org
-* https://visamondial.com
-* https://blog.jalizade.com
-* https://fundyab.com
-* https://mohajersara.org/forum/
-* https://numbeo.com/cost-of-living/
-* https://shanghairanking.com/Shanghairanking-Subject-Rankings/
-* https://grad.saorg.ir/After-September2018
-* [کالج ها در آلمان](http://applyforstudienkolleg.blog.ir/)
+## Donate
 
-### Payment Assistance
+[![Donate](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://yazdipour.github.io/donate/)
 
-* https://assist-pay.ir/
-* https://sharifvisa.ir/
+## INSTALL ON PHONE
 
-### Podcasts
+Apply-notebook is a (PWA) Web Application and you can access it offline, like other applications.
 
-* https://radiodaal.ir/
-* [پادکست خانه‌های من](https://itunes.apple.com/us/podcast/%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D9%86/id1331026409?mt=2)
+Just open [https://yazdipour.github.io/apply-notebook](https://yazdipour.github.io/apply-notebook) web page and Pin it to your iOS/Android home page.
 
-### Youtube Channels
-
-* [Babak Sorkhpour](https://www.youtube.com/channel/UCZfftLsLG4GS4BGIcoKiTQQ)
-
-### Telegram Channels
-
-* https://t.me/helfenir
-* https://t.me/Afashams
-* https://t.me/applycafe
-* https://t.me/canadacosts
-* https://t.me/fundyab
-* https://t.me/ApplyClub
-* https://t.me/pargargre
-* https://t.me/ApplyTime
-* https://t.me/ApplyTime_Positions
-* https://t.me/helfenads
-* https://t.me/septm
-* https://t.me/AfaShams
-* https://t.me/nachdeutschland
-
-### Telegram Group
-
-* Helfen:  https://t.me/joinchat/BbErcTwtV6adIi_CVOlZ-Q
-* SAPIENZA : https://t.me/joinchat/Cj7ivT4VPp0jY1zBmfpP2g
-
-### Donate
-
-[![Donate RIAL.IR](https://img.shields.io/badge/donate-IRAN-blue.svg)](https://www.payping.ir/yazdipour)
-
-[![Donate](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/XrTW5YQDy)
+| ||
+|-|-|
+|![pwa ios](./assets/ios2.jpg) | ![pwa ios](./assets/ios1.jpg)
