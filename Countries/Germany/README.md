@@ -12,9 +12,8 @@
 
 ## کار / مالیات
 
-
 * [گواهی_کار](Countries/Germany/Work/گواهی_کار.md)
-* [کار_کامپیوتری.png](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Work/کار_کامپیوتری.png)
+* [کار_کامپیوتری.png](./Work/کار_کامپیوتری.png)
 * [کار](Countries/Germany/Work/کار.md)
 * [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
 * [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
