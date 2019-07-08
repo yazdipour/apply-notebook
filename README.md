@@ -48,19 +48,21 @@
 * [نحوه_گرفتن_پاسپورت](_/نحوه_گرفتن_پاسپورت.md)
 * [Application Fee Waiver](_/fee_waiver.md)
 
-## منابع و لینک ها
+### منابع و لینک ها
 
 [منابع و لینک ها](_/ref.md)
 
-## Donate
+## کمک مالی
 
-[![Donate](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://yazdipour.github.io/donate/)
+[کمک به رفقیتون](https://yazdipour.github.io/donate/)
 
-## INSTALL ON PHONE
+## نصب روی گوشی
 
-Apply-notebook is a (PWA) Web Application and you can access it offline, like other applications.
+این منبع رو میتونید مانند اپلیکیشن در گوشی iOS و یا Android خودتون داشته باشید.
 
-Just open [https://yazdipour.github.io/apply-notebook](https://yazdipour.github.io/apply-notebook) web page and Pin it to your iOS/Android home page.
+کافیه وارد صفحه اصلی [https://yazdipour.github.io/apply-notebook](https://yazdipour.github.io/apply-notebook) بشید و صفحه رو پین کنید.
+
+این صفحه بصورت PWA طراحی شده. پس به راحتی میتونید از اون بصورت Offline هم استفاده کنید.
 
 | ||
 |-|-|
