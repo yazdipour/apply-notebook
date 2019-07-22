@@ -48,6 +48,7 @@
 
 ## قبل از مصاحبه
 
+* [کانال تلگرامی برای چک کردن ویزا](https://t.me/VisaStatus)
 * [انگیزه_نامه_سفارت](Countries/Germany/BeforeEmbassy/انگیزه_نامه_سفارت.md)
 * [ضمانتنامه_مالی](Countries/Germany/BeforeEmbassy/ضمانتنامه_مالی.md)
 * [مصاحبه_دانشجویی](Countries/Germany/BeforeEmbassy/مصاحبه_دانشجویی.md)
