@@ -37,13 +37,14 @@
 
 ## قبل از سفر
 
-* [چی_ببریم](_/چی_ببریم.md)
+* [چی_ببریم](Countries/Germany/BeforeMigration/چی_ببریم.md)
 * [بعد_مصاحبه](Countries/Germany/BeforeMigration/بعد_مصاحبه.md)
 * [بیمه](Countries/Germany/BeforeMigration/بیمه.md)
 * [بیمه_مسافرتی](Countries/Germany/BeforeMigration/بیمه_مسافرتی.md)
 * [خروج](Countries/Germany/BeforeMigration/خروج.md)
 * [خانه🏠](Countries/Germany/BeforeMigration/خانه.md)
 * [تحویل_ویزا](Countries/Germany/BeforeMigration/ویزا_تحویل.md)
+* [Airlines.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/BeforeMigration/Airlines.pdf)
 
 ## قبل از مصاحبه
 

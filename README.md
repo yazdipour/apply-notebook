@@ -56,6 +56,12 @@
 
 [کمک به رفقیتون](https://yazdipour.github.io/donate/)
 
+## همکاری
+
+اگر قصد اضافه کردن مطلب یا تصحیح مطلبی رو دارید در این صفحه بیان کنید
+
+https://github.com/yazdipour/apply-notebook/issues/new
+
 ## نصب روی گوشی
 
 این منبع رو میتونید مانند اپلیکیشن در گوشی iOS و یا Android خودتون داشته باشید.
