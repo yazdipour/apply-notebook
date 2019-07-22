@@ -9,6 +9,7 @@
 * [خانواده_فرزندان](Countries/Germany/خانواده_فرزندان.md)
 * [هزینه_زندگی‌](Countries/Germany/هزینه_زندگی‌.md)
 * [مراحل_رفتن_به_آلمان](Countries/Germany/مراحل_رفتن_به_آلمان.md)
+* [بیمه](Countries/Germany/BeforeMigration/بیمه.md)
 
 ## کار / مالیات
 
@@ -39,7 +40,6 @@
 
 * [چی_ببریم](Countries/Germany/BeforeMigration/چی_ببریم.md)
 * [بعد_مصاحبه](Countries/Germany/BeforeMigration/بعد_مصاحبه.md)
-* [بیمه](Countries/Germany/BeforeMigration/بیمه.md)
 * [بیمه_مسافرتی](Countries/Germany/BeforeMigration/بیمه_مسافرتی.md)
 * [خروج](Countries/Germany/BeforeMigration/خروج.md)
 * [خانه🏠](Countries/Germany/BeforeMigration/خانه.md)
@@ -59,6 +59,7 @@
 * [ویزای_دانشجویی](Countries/Germany/Visa/ویزای_دانشجویی.md)
 * [برگه راهنما برای درخواست روادید دانشجویی.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/برگه_راهنما_برای_درخواست_روادید_دانشجویی.pdf)
 * [راهنمای فرم روادید دانشجویی.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/راهنمای_فرم_اقامت_بلندمدت.pdf)
+* [پیگیری_ویزا](Countries/Germany/BeforeEmbassy/پیگیری_ویزا.md)
 
 ## قبل از اپلای کردن
 
