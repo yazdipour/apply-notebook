@@ -10,14 +10,17 @@
 * [هزینه_زندگی‌](Countries/Germany/هزینه_زندگی‌.md)
 * [مراحل_رفتن_به_آلمان](Countries/Germany/مراحل_رفتن_به_آلمان.md)
 * [بیمه](Countries/Germany/BeforeMigration/بیمه.md)
+* [پرسش عمومی آزمون تابعیت آلمان](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Poltik.pdf)
+* [عکس بیومتریک](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/A-Passbildschablone_Erwachsene.pdf)
 
 ## کار / مالیات
 
+* [کار](Countries/Germany/Work/کار.md)
 * [گواهی_کار](Countries/Germany/Work/گواهی_کار.md)
 * [کار_کامپیوتری.png](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Work/کار_کامپیوتری.png)
-* [کار](Countries/Germany/Work/کار.md)
 * [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
 * [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
+* [برترین_سایت_های_کاریابی](Countries/Germany/Work/برترین_سایت_های_کاریابی.md)
 
 ## ویزای_پیوست
 
@@ -35,6 +38,10 @@
 * [قطار🚆](Countries/Germany/AfterMigration/قطار.md)
 * [زندگی](Countries/Germany/AfterMigration/زندگی.md)
 * [تشکیل پرونده در سفارت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/تشکیل_پرونده_در_سفارت.pdf)
+* [Fiktionsbescheinigung](Countries/Germany/AfterMigration/Fiktionsbescheinigung.md)
+* [Application for a Residence Permit](Countries/Germany/AfterMigration/Application_Residence_Permit.pdf)
+* [خانه🏠](Countries/Germany/AfterMigration/خانه.md)
+* [خانه🏠2](http://telegra.ph/%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A7%D8%AA%D8%A7%D9%82%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-05-20)
 
 ## قبل از سفر
 
@@ -42,7 +49,6 @@
 * [بعد_مصاحبه](Countries/Germany/BeforeMigration/بعد_مصاحبه.md)
 * [بیمه_مسافرتی](Countries/Germany/BeforeMigration/بیمه_مسافرتی.md)
 * [خروج](Countries/Germany/BeforeMigration/خروج.md)
-* [خانه🏠](Countries/Germany/BeforeMigration/خانه.md)
 * [تحویل_ویزا](Countries/Germany/BeforeMigration/ویزا_تحویل.md)
 * [Airlines.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/BeforeMigration/Airlines.pdf)
 
