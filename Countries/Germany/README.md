@@ -12,15 +12,18 @@
 * [بیمه](Countries/Germany/BeforeMigration/بیمه.md)
 * [پرسش عمومی آزمون تابعیت آلمان](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Poltik.pdf)
 * [عکس بیومتریک](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/A-Passbildschablone_Erwachsene.pdf)
+* [گواهینامه](Countries/Germany/گواهینامه.md)
 
 ## کار / مالیات
 
 * [کار](Countries/Germany/Work/کار.md)
+* [کار_دانشجویی](Countries/Germany/Work/کار_دانشجویی.md)
 * [گواهی_کار](Countries/Germany/Work/گواهی_کار.md)
 * [کار_کامپیوتری.png](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Work/کار_کامپیوتری.png)
 * [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
 * [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
 * [برترین_سایت_های_کاریابی](Countries/Germany/Work/برترین_سایت_های_کاریابی.md)
+* [تغییر_اقامت](Countries/Germany/Work/Visa/تغییر_اقامت.md)
 
 ## ویزای_پیوست
 
@@ -40,6 +43,8 @@
 
 ## بعد از سفر
 
+* [ملده](Countries/Germany/AfterMigration/ملده.md)
+* [قرارداد](Countries/Germany/AfterMigration/قرارداد.md)
 * [ZDF](https://raw.githubusercontent.com/yazdipour/apply-notebook/master/Countries/Germany/AfterMigration/zdf.png)
 * [لغات پر استفاده](Countries/Germany/AfterMigration/لغات.md)
 * [SimCard](Countries/Germany/AfterMigration/SimCard.md)
