@@ -1,24 +1,22 @@
-# _
+# 🇩🇪
 
 * **[مرجع کامل📙](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/HelfenHandbuch-Jan2019.pdf)**
+* [ 0-100 مراحل_رفتن_به_آلمان](Countries/Germany/مراحل_رفتن_به_آلمان.md)
 * [Blocking Bank States](Countries/Germany/BlockingStates.md)
-* [EmbassyInfo](Countries/Germany/EmbassyInfo.md)
-* [QA](Countries/Germany/QA.md)
+* [Q/A](Countries/Germany/QA.md)
 * [پناهندگان](Countries/Germany/پناهندگان.md)
 * [تحصیلات](Countries/Germany/تحصیلات.md)
 * [خانواده_فرزندان](Countries/Germany/خانواده_فرزندان.md)
 * [هزینه_زندگی‌](Countries/Germany/هزینه_زندگی‌.md)
-* [مراحل_رفتن_به_آلمان](Countries/Germany/مراحل_رفتن_به_آلمان.md)
 * [بیمه](Countries/Germany/BeforeMigration/بیمه.md)
 * [پرسش عمومی آزمون تابعیت آلمان](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Poltik.pdf)
 * [عکس بیومتریک](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/A-Passbildschablone_Erwachsene.pdf)
 * [گواهینامه](Countries/Germany/گواهینامه.md)
 
-## کار / مالیات
+## کار و مالیات
 
 * [کار](Countries/Germany/Work/کار.md)
 * [کار_دانشجویی](Countries/Germany/Work/کار_دانشجویی.md)
-* [گواهی_کار](Countries/Germany/Work/گواهی_کار.md)
 * [کار_کامپیوتری.png](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Work/کار_کامپیوتری.png)
 * [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
 * [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
@@ -35,7 +33,7 @@
 
 * [تشکیل پرونده در سفارت.pdf](https://github.com/yazdipour/apply-notebook/raw/master/Countries/Germany/Visa/تشکیل_پرونده_در_سفارت.pdf)
 * [سفارت-ایران-در-آلمان](http://www.ataland.com/Embassy/سفارت-ایران-در-آلمان)
-
+* [EmbassyInfo](Countries/Germany/EmbassyInfo.md)
 * سفارت ایران در برلین: ایالات برلین، براندنبورگ، زاکسن، زاکسن آنهالت، تورینگن و مکلنبورگ- فورپومرن
 * کنسولگری ایران در فرانکفورت: ایالات هسن، نوردراین- وستفالن، راینلاند - فالتس و زارلاند با شماره تماس 560006949 739_ 740
 * کنسولگری ایران در هامبورگ: ایالات هامبورگ، نیدرزاکسن، اشلسویگ - هولشتاین و برمن 5144060 _ 4940
@@ -69,6 +67,7 @@
 
 ## قبل از مصاحبه
 
+* [گواهی_کار_برای_سفارت](Countries/Germany/Work/گواهی_کار.md)
 * [کانال تلگرامی برای چک کردن ویزا](https://t.me/VisaStatus)
 * [انگیزه_نامه_سفارت](Countries/Germany/BeforeEmbassy/انگیزه_نامه_سفارت.md)
 * [ضمانتنامه_مالی](Countries/Germany/BeforeEmbassy/ضمانتنامه_مالی.md)
