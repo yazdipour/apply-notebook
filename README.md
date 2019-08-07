@@ -34,7 +34,7 @@
 * [Italy 🇮🇹](Countries/Italy/README.md)
 * [Norway 🇳🇴](Countries/Norway/README.md)
 * [Sweden 🇸🇪](Countries/Sweden/README.md)
-* [Australia🦘](Countries/Australia/README.md)
+* [Australia 🦘](Countries/Australia/README.md)
 
 ### متفرقه
 
@@ -47,6 +47,8 @@
 * [معیار_سنجش_اعتبار_مقاله](_/معیار_سنجش_اعتبار_مقاله.md)
 * [نحوه_گرفتن_پاسپورت](_/نحوه_گرفتن_پاسپورت.md)
 * [Application Fee Waiver](_/fee_waiver.md)
+* [تشکیل پرونده تحصیلی در سامانه تاک](http://econsulate.mfa.ir/index.aspx?fkeyid=&siteid=452&pageid=22755)
+* [درج مهر اجازه خروج دانشجوئی](http://econsulate.mfa.ir/index.aspx?fkeyid=&siteid=452&pageid=22754)
 
 ### منابع و لینک ها
 
