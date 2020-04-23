@@ -32,7 +32,7 @@
 
 ## Visa
 
-* [تغییر_اقامت](Countries/Germany/Work/Visa/تغییر_اقامت.md)
+* [تغییر_اقامت](Countries/Germany/Visa/تغییر_اقامت.md)
 * [تغییر دانشجویی به بلوکارت](Countries/Germany/Visa/دانشجویی_به_بلوکارت.md)
 
 ## ویزای_پیوست
