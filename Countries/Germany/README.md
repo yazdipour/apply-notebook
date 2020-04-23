@@ -20,7 +20,6 @@
 * [مالیات_دانشجویی](Countries/Germany/Work/مالیات_دانشجویی.md)
 * [پول_مالیات](Countries/Germany/Work/پول_مالیات.md)
 * [برترین_سایت_های_کاریابی](Countries/Germany/Work/برترین_سایت_های_کاریابی.md)
-* [تغییر_اقامت](Countries/Germany/Work/Visa/تغییر_اقامت.md)
 
 ### Banking
 
@@ -30,6 +29,11 @@
 * [دریافت کارت اعتباری مستر کارت MasterCard](http://applyalone.ir/آموزش-ها/product/view/1/2.html)
 * [راهنمای فعال سازی اینترنت بانک و نرم افزار اشپارکاسه Sparkasse](http://applyalone.ir/آموزش-ها/product/view/1/4.html)
 * [سیستم بانکی آلمان](Countries/Germany/Bank.md)
+
+## Visa
+
+* [تغییر_اقامت](Countries/Germany/Work/Visa/تغییر_اقامت.md)
+* [تغییر دانشجویی به بلوکارت](Countries/Germany/Visa/دانشجویی_به_بلوکارت.md)
 
 ## ویزای_پیوست
 
